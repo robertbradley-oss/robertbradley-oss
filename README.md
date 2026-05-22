@@ -10,7 +10,9 @@ I use GitHub to share work, document progress, and collaborate in the open. I ca
 - Keeping projects simple enough to understand and strong enough to grow
 - Improving documentation, workflows, and developer experience
 
+## Currently Building
 
+- Tessario - current project in development.
 
 
 ## How I Work
