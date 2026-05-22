@@ -12,8 +12,7 @@ I use GitHub to share work, document progress, and collaborate in the open. I ca
 
 ## Currently Building
 
-- Tessario - current project in development.
-
+- Tessario - my current project in active development, focused on turning an early product idea into something useful and polished.
 
 ## How I Work
 
