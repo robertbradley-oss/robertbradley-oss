@@ -10,6 +10,10 @@ I use GitHub to share work, document progress, and collaborate in the open. I ca
 - Keeping projects simple enough to understand and strong enough to grow
 - Improving documentation, workflows, and developer experience
 
+## Featured Project
+
+- [MVP Planner](https://github.com/robertbradley-oss/MVP) - a dependency-free web app for turning an early product idea into a practical launch plan.
+
 ## How I Work
 
 - Start with the user problem and work backward
