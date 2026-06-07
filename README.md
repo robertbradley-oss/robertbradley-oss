@@ -1,4 +1,4 @@
-# Rob Bradley
+# Robert Bradley
 
 Software builder focused on practical, maintainable projects.
 
