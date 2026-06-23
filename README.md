@@ -1,22 +1,52 @@
 # Robert Bradley
 
-Software builder focused on practical, maintainable projects.
+Software builder focused on practical tools that solve real workflow problems.
 
-I use GitHub to share work, document progress, and collaborate in the open. I care about clear communication, readable code, and shipping useful improvements one step at a time.
+I build focused applications for customer support, operations, review tracking, and internal process improvement. Most projects start from real work problems and become polished tools that are simple enough to use every day.
 
 ## Current Focus
 
-- Building and refining project ideas from early MVPs into more polished products
-- Keeping projects simple enough to understand and strong enough to grow
-- Improving documentation, workflows, and developer experience
+- Building practical SaaS-style tools from real workplace needs
+- Turning early MVPs into cleaner, more maintainable products
+- Improving customer support workflows, review tracking, and internal operations
+- Keeping apps simple, useful, and easy to understand
+
+## Projects
+
+### RepStack
+
+A review collection and tracking app built to manage review cards, pay periods, bonus estimates, promises, and export readiness.
+
+### RepReport
+
+A review parsing and export tool that turns collected review information into a clean report-ready format.
+
+### RepOS
+
+A customer support operating system prototype focused on cleaner ticket handling, internal workflows, and support team visibility.
+
+### RepGuard
+
+An evidence and claim review tool for organizing claim details, uploaded evidence, and risk signals in a cleaner workflow.
 
 ## How I Work
 
-- Start with the user problem and work backward
-- Prefer clear structure over unnecessary complexity
-- Document decisions so future work is easier to pick up
-- Iterate quickly while keeping quality visible
+- Start with the actual user problem
+- Keep the first version simple
+- Improve the interface until it feels easy to use
+- Document decisions so projects are easier to maintain
+- Ship useful improvements one step at a time
+
+## Tech I Use
+
+- Next.js
+- TypeScript
+- React
+- Supabase
+- Vercel
+- GitHub
+- Local-first app patterns
 
 ## Connect
 
-- GitHub: [@robertbradley-oss](https://github.com/robertbradley-oss)
+GitHub: [@robertbradley-oss](https://github.com/robertbradley-oss)
