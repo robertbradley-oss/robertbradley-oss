@@ -13,6 +13,10 @@ I build focused applications for customer support, operations, review tracking, 
 
 ## Projects
 
+### RepSuite
+
+The central launcher hub for the Rep tools ecosystem. RepSuite brings RepStack, RepReport, RepOS, and RepGuard into one polished front door without replacing the individual apps.
+
 ### RepStack
 
 A review collection and tracking app built to manage review cards, pay periods, bonus estimates, promises, and export readiness.
