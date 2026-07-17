@@ -1,35 +1,31 @@
 # Robert Bradley
 
-I build practical AI and workflow tools from real problems.
+I build practical software that makes complicated work feel clearer.
 
-My work focuses on local-first developer tools, customer support workflows, and focused applications that make everyday processes clearer and easier to manage. I care about honest reporting, thoughtful interfaces, and software that stays simple enough to use.
+My work spans local-first AI tools, dependable developer workflows, and customer-support systems. I care about honest feedback, thoughtful interfaces, and software people can understand and trust.
 
-## Featured Project
+## Developer Tools
 
-### [Clean Handoff](https://github.com/robertbradley-oss/clean-handoff)
+- **[ScopeLock](https://github.com/robertbradley-oss/scopelock):** Keeps AI coding work inside the task and file boundaries you approved.
+- **[Clean Handoff](https://github.com/robertbradley-oss/clean-handoff):** Creates trustworthy project checkpoints so fresh Codex sessions can resume with verified context.
 
-A local-first Codex plugin that creates trustworthy project checkpoints and helps a fresh session continue without re-explaining everything.
+Both tools are local-first, human-readable, and designed to make AI-assisted work easier to inspect.
 
-- Verifies live repository state instead of blindly trusting stale notes
-- Distinguishes verified facts, inferences, and uncertainties
-- Requires no account, backend, telemetry, or API key
-- Keeps every checkpoint human-readable
+## Customer Support Tools
 
-## Rep Tools
-
-- **[RepOS](https://github.com/robertbradley-oss/RepOS):** A customer support operating system prototype for cleaner ticket workflows and internal visibility.
-- **[RepStack](https://github.com/robertbradley-oss/RepStack):** A review collection and pay-period tracking app for customer support review bonuses.
-- **[RepGuard](https://github.com/robertbradley-oss/RepGuard):** An evidence and claim review workspace for organizing support cases and risk signals.
-- **[RepReport](https://github.com/robertbradley-oss/RepReport):** A review parser and export helper that turns collected notes into report-ready output.
-- **[RepSuite](https://github.com/robertbradley-oss/RepSuite):** A launcher hub that brings the Rep tools together in one place.
+- **[RepOS](https://github.com/robertbradley-oss/RepOS):** A customer-support operating system prototype for clearer ticket workflows and internal visibility.
+- **[RepStack](https://github.com/robertbradley-oss/RepStack):** Review collection and pay-period tracking for customer-support bonus workflows.
+- **[RepGuard](https://github.com/robertbradley-oss/RepGuard):** An evidence and claim-review workspace for organizing cases and risk signals.
+- **[RepReport](https://github.com/robertbradley-oss/RepReport):** Turns collected review notes into report-ready output.
+- **[RepSuite](https://github.com/robertbradley-oss/RepSuite):** A simple launcher that brings the Rep tools together.
 
 ## How I Build
 
 - Start with a real user problem
 - Ship a focused first version
 - Test it against real workflows
-- Document decisions and constraints
-- Keep improving the interface until it feels clear
+- Make decisions and limitations visible
+- Keep refining the interface until it feels clear
 
 ## Tools
 
