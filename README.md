@@ -1,15 +1,22 @@
 # Robert Bradley
 
-I build practical software that makes complicated work feel clearer.
+I build practical software that makes complicated work feel clearer and easier to trust.
 
-My work spans local-first AI tools, dependable developer workflows, and customer-support systems. I care about honest feedback, thoughtful interfaces, and software people can understand and trust.
+My work spans privacy-conscious AI tools, dependable developer workflows, and customer-support systems. I care about honest feedback, thoughtful interfaces, and software people can understand.
+
+## Currently Building
+
+**[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt)** creates privacy-safe, reviewable records of what AI coding agents did: tool and command lifecycle events, changed file paths, verification results, and Git state—without storing prompts, reasoning, source code, command text, or command output.
+
+AgentReceipt is pre-alpha. Its receipts are useful evidence for review, not a claim that every action was observed or every statement is independently proven.
 
 ## Developer Tools
 
+- **[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt):** Privacy-first proof-of-work receipts for AI coding agents.
 - **[ScopeLock](https://github.com/robertbradley-oss/scopelock):** Keeps AI coding work inside the task and file boundaries you approved.
 - **[Clean Handoff](https://github.com/robertbradley-oss/clean-handoff):** Creates trustworthy project checkpoints so fresh Codex sessions can resume with verified context.
 
-Both tools are local-first, human-readable, and designed to make AI-assisted work easier to inspect.
+Together, these tools make AI-assisted work easier to scope, inspect, and continue with clear evidence and human-readable artifacts.
 
 ## Customer Support Tools
 
@@ -29,7 +36,7 @@ Both tools are local-first, human-readable, and designed to make AI-assisted wor
 
 ## Tools
 
-TypeScript, JavaScript, React, Next.js, Supabase, Vercel, GitHub, Codex, and local-first patterns.
+TypeScript, JavaScript, Node.js, React, Next.js, Supabase, Vercel, GitHub Actions, Codex, and local-first patterns.
 
 ## Connect
 
