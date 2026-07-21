@@ -13,7 +13,7 @@ AgentReceipt is pre-alpha. Its receipts are useful evidence for review, not a cl
 ## Developer Tools
 
 - **[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt):** Privacy-first proof-of-work receipts for AI coding agents.
-- **[ScopeLock](https://github.com/robertbradley-oss/scopelock):** Keeps AI coding work inside the task and file boundaries you approved.
+- **[Skills](https://github.com/robertbradley-oss/skills):** Standalone Codex skills, including GamePlan and Post Clean, for controlled planning and cleanup.
 - **[Clean Handoff](https://github.com/robertbradley-oss/clean-handoff):** Creates trustworthy project checkpoints so fresh Codex sessions can resume with verified context.
 
 Together, these tools make AI-assisted work easier to scope, inspect, and continue with clear evidence and human-readable artifacts.
