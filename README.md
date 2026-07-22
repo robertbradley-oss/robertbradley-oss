@@ -20,11 +20,7 @@ Together, these tools make AI-assisted work easier to scope, inspect, and contin
 
 ## Customer Support Tools
 
-- **[RepOS](https://github.com/robertbradley-oss/RepOS):** A customer-support operating system prototype for clearer ticket workflows and internal visibility.
-- **[RepStack](https://github.com/robertbradley-oss/RepStack):** Review collection and pay-period tracking for customer-support bonus workflows.
-- **[RepGuard](https://github.com/robertbradley-oss/RepGuard):** An evidence and claim-review workspace for organizing cases and risk signals.
-- **[RepReport](https://github.com/robertbradley-oss/RepReport):** Turns collected review notes into report-ready output.
-- **[RepSuite](https://github.com/robertbradley-oss/RepSuite):** A simple launcher that brings the Rep tools together.
+- **[Rep Tools](https://github.com/robertbradley-oss/rep-tools):** The umbrella for RepSuite, RepStack, RepReport, RepOS, and RepGuard—focused tools spanning review tracking, reporting, ticket operations, and evidence review.
 
 ## How I Build
 
