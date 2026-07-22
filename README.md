@@ -6,7 +6,7 @@ My work spans privacy-conscious AI tools, dependable developer workflows, and cu
 
 ## Currently Building
 
-**[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt)** creates privacy-safe, reviewable records of what AI coding agents did: tool and command lifecycle events, changed file paths, verification results, and Git state—without storing prompts, reasoning, source code, command text, or command output.
+**[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt)** creates privacy-safe, reviewable records of what AI coding agents did: tool and command lifecycle events, changed file paths, verification results, and Git state, without storing prompts, reasoning, source code, command text, or command output.
 
 AgentReceipt is pre-alpha. Its receipts are useful evidence for review, not a claim that every action was observed or every statement is independently proven.
 
@@ -20,7 +20,7 @@ Together, these tools make AI-assisted work easier to scope, inspect, and contin
 
 ## Customer Support Tools
 
-- **[Rep Tools](https://github.com/robertbradley-oss/rep-tools):** The umbrella for RepSuite, RepStack, RepReport, RepOS, and RepGuard—focused tools spanning review tracking, reporting, ticket operations, and evidence review.
+- **[Rep Tools](https://github.com/robertbradley-oss/rep-tools):** The umbrella for RepSuite, RepStack, RepReport, RepOS, and RepGuard: focused tools spanning review tracking, reporting, ticket operations, and evidence review.
 
 ## How I Build
 
