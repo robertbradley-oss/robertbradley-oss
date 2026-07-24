@@ -4,15 +4,9 @@ I build practical software that makes complicated work feel clearer and easier t
 
 My work spans privacy-conscious AI tools, dependable developer workflows, and customer-support systems. I care about honest feedback, thoughtful interfaces, and software people can understand.
 
-## Currently Building
-
-**[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt)** creates privacy-safe, reviewable records of what AI coding agents did: tool and command lifecycle events, changed file paths, verification results, and Git state, without storing prompts, reasoning, source code, command text, or command output.
-
-AgentReceipt is pre-alpha. Its receipts are useful evidence for review, not a claim that every action was observed or every statement is independently proven.
-
 ## Developer Tools
 
-- **[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt):** Privacy-first proof-of-work receipts for AI coding agents.
+- **[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt):** A pre-alpha experiment in privacy-safe, reviewable proof-of-work receipts for AI coding agents.
 - **[Skills](https://github.com/robertbradley-oss/skills):** Standalone Codex skills, including GamePlan and Post Clean, for controlled planning and cleanup.
 - **[Clean Handoff](https://github.com/robertbradley-oss/clean-handoff):** Creates trustworthy project checkpoints so fresh Codex sessions can resume with verified context.
 
