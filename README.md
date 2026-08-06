@@ -4,12 +4,6 @@ I build focused software for faster, clearer workflows. I care about privacy, ho
 
 ## Building now: Index
 
-<p align="center">
-  <a href="https://github.com/robertbradley-oss/index-releases">
-    <img src="https://raw.githubusercontent.com/robertbradley-oss/index-releases/main/assets/index-demo.gif" alt="Index radial launcher highlighting installed Windows apps" width="420">
-  </a>
-</p>
-
 **[Index](https://github.com/robertbradley-oss/index-releases)** is a fast radial launcher for Windows. Hold a shortcut, move toward an app, and release. Eight destinations, one gesture.
 
 The first public installer is being prepared. Index is currently unsigned, and the release repository explains what Windows users should expect.
