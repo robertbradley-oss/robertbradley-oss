@@ -1,19 +1,28 @@
 # Robert Bradley
 
-I build privacy-conscious AI tools, dependable developer workflows, and customer-support software. I care about clear interfaces, honest feedback, and systems people can inspect.
+I build focused software for faster, clearer workflows. I care about privacy, honest feedback, and tools people can inspect.
 
-## Developer Tools
+## Building now: Index
+
+<p align="center">
+  <a href="https://github.com/robertbradley-oss/index-releases">
+    <img src="https://raw.githubusercontent.com/robertbradley-oss/index-releases/main/assets/index-demo.gif" alt="Index radial launcher highlighting installed Windows apps" width="420">
+  </a>
+</p>
+
+**[Index](https://github.com/robertbradley-oss/index-releases)** is a fast radial launcher for Windows. Hold a shortcut, move toward an app, and release. Eight destinations, one gesture.
+
+The first public installer is being prepared. Index is currently unsigned, and the release repository explains what Windows users should expect.
+
+## Other work
 
 - **[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt):** Privacy-safe, reviewable proof-of-work receipts for AI coding agents.
-- **[Skills](https://github.com/robertbradley-oss/skills):** Standalone Codex skills for trustworthy handoffs, controlled planning, approved cleanup, and plain-language technical reports. Includes Clean Handoff, GamePlan, Post Clean, and Simplify.
-
-## Customer Support Tools
-
-- **[Rep Tools](https://github.com/robertbradley-oss/rep-tools):** The umbrella for RepSuite, RepStack, RepReport, RepOS, and RepGuard: focused tools spanning review tracking, reporting, ticket operations, and evidence review.
+- **[Skills](https://github.com/robertbradley-oss/skills):** Standalone Codex skills for clean handoffs, controlled planning, approved cleanup, and plain-language technical reports.
+- **[Rep Tools](https://github.com/robertbradley-oss/rep-tools):** Customer-support tools for review tracking, reporting, ticket operations, and evidence review.
 
 ## Stack
 
-TypeScript, JavaScript, Node.js, React, Next.js, Supabase, Vercel, GitHub Actions, Codex, and local-first patterns.
+C#, .NET, WPF, TypeScript, JavaScript, Node.js, React, Next.js, Supabase, Vercel, GitHub Actions, Codex, and local-first patterns.
 
 ## Elsewhere
 
