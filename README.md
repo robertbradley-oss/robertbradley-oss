@@ -16,11 +16,11 @@ I build focused software for faster, clearer workflows. My work spans Windows ut
 ### Customer-support software
 
 - **[Rep Tools](https://github.com/robertbradley-oss/rep-tools):** A catalog and launch point for the Rep customer-support tools.
-- **[RepSuite](https://github.com/robertbradley-oss/RepSuite):** A launcher for the Rep tools ecosystem.
-- **[RepStack](https://github.com/robertbradley-oss/RepStack):** Review collection and pay-period tracking for customer-support teams.
-- **[RepReport](https://github.com/robertbradley-oss/RepReport):** A review parser and export helper for turning collected notes into report-ready output.
-- **[RepOS](https://github.com/robertbradley-oss/RepOS):** A customer-support operating system prototype for cleaner ticket workflows and internal visibility.
-- **[RepGuard](https://github.com/robertbradley-oss/RepGuard):** An evidence and claim review workspace for organizing support cases and risk signals.
+  - **[RepSuite](https://github.com/robertbradley-oss/RepSuite):** A launcher for the Rep tools ecosystem.
+  - **[RepStack](https://github.com/robertbradley-oss/RepStack):** Review collection and pay-period tracking for customer-support teams.
+  - **[RepReport](https://github.com/robertbradley-oss/RepReport):** A review parser and export helper for turning collected notes into report-ready output.
+  - **[RepOS](https://github.com/robertbradley-oss/RepOS):** A customer-support operating system prototype for cleaner ticket workflows and internal visibility.
+  - **[RepGuard](https://github.com/robertbradley-oss/RepGuard):** An evidence and claim review workspace for organizing support cases and risk signals.
 
 ## Stack
 
