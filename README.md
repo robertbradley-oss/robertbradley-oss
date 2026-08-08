@@ -2,11 +2,11 @@
 
 I build focused software for faster, clearer workflows. I care about privacy, honest feedback, and tools people can inspect.
 
-## Building now: Index
+## Available now: Index
 
 **[Index](https://github.com/robertbradley-oss/index-releases)** is a fast radial launcher for Windows. Hold a shortcut, move toward an app, and release. Eight destinations, one gesture.
 
-The first public installer is being prepared. Index is currently unsigned, and the release repository explains what Windows users should expect.
+[Index 2.1.14](https://github.com/robertbradley-oss/index-releases/releases/latest) is available for Windows 11 and updates automatically after installation. The installer is currently unsigned; the release repository explains what Windows users should expect.
 
 ## Other work
 
