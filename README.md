@@ -1,18 +1,26 @@
 # Robert Bradley
 
-I build focused software for faster, clearer workflows. I care about privacy, honest feedback, and tools people can inspect.
+I build focused software for faster, clearer workflows. My work spans Windows utilities, AI and developer tooling, and customer-support software, with an emphasis on privacy, honest feedback, and tools people can inspect.
 
-## Available now: Index
+## Projects
 
-**[Index](https://github.com/robertbradley-oss/index-releases)** is a fast radial launcher for Windows. Hold a shortcut, move toward an app, and release. Eight destinations, one gesture.
+### Desktop software
 
-[Index 2.1.14](https://github.com/robertbradley-oss/index-releases/releases/latest) is available for Windows 11 and updates automatically after installation. The installer is currently unsigned; the release repository explains what Windows users should expect.
+- **[Index](https://github.com/robertbradley-oss/index-releases):** A radial app launcher for Windows. Hold a shortcut, move toward one of eight apps, and release to open it.
 
-## Other work
+### AI and developer tools
 
 - **[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt):** Privacy-safe, reviewable proof-of-work receipts for AI coding agents.
-- **[Skills](https://github.com/robertbradley-oss/skills):** Standalone Codex skills for clean handoffs, controlled planning, approved cleanup, and plain-language technical reports.
-- **[Rep Tools](https://github.com/robertbradley-oss/rep-tools):** Customer-support tools for review tracking, reporting, ticket operations, and evidence review.
+- **[Skills](https://github.com/robertbradley-oss/skills):** Standalone Codex skills for planning, safe cleanup, trustworthy handoffs, and technical communication.
+
+### Customer-support software
+
+- **[Rep Tools](https://github.com/robertbradley-oss/rep-tools):** A catalog and launch point for the Rep customer-support tools.
+- **[RepSuite](https://github.com/robertbradley-oss/RepSuite):** A launcher for the Rep tools ecosystem.
+- **[RepStack](https://github.com/robertbradley-oss/RepStack):** Review collection and pay-period tracking for customer-support teams.
+- **[RepReport](https://github.com/robertbradley-oss/RepReport):** A review parser and export helper for turning collected notes into report-ready output.
+- **[RepOS](https://github.com/robertbradley-oss/RepOS):** A customer-support operating system prototype for cleaner ticket workflows and internal visibility.
+- **[RepGuard](https://github.com/robertbradley-oss/RepGuard):** An evidence and claim review workspace for organizing support cases and risk signals.
 
 ## Stack
 
