@@ -26,6 +26,3 @@ I build focused software for faster, clearer workflows. My work spans Windows ut
 
 C#, .NET, WPF, TypeScript, JavaScript, Node.js, React, Next.js, Supabase, Vercel, GitHub Actions, Codex, and local-first patterns.
 
-## Elsewhere
-
-- X: [@robdocx](https://x.com/robdocx)
