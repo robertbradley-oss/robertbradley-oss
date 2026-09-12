@@ -1,6 +1,6 @@
 # Robert Bradley
 
-I build focused software for faster, clearer workflows. My work spans Windows utilities, AI and developer tooling, and customer-support software, with an emphasis on privacy, honest feedback, and tools people can inspect.
+I build Windows utilities, developer tools, and customer-support apps.
 
 ## Projects
 
@@ -10,19 +10,19 @@ I build focused software for faster, clearer workflows. My work spans Windows ut
 
 ### AI and developer tools
 
-- **[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt):** Privacy-safe, reviewable proof-of-work receipts for AI coding agents.
-- **[Skills](https://github.com/robertbradley-oss/skills):** Standalone Codex skills for planning, safe cleanup, trustworthy handoffs, and technical communication.
+- **[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt):** Records tool activity, file changes, and checks from AI coding agents. Pre-alpha.
+- **[Skills](https://github.com/robertbradley-oss/skills):** Codex skills for planning, cleanup, task handoffs, and explaining technical work.
 
 ### Customer-support software
 
 - **[Rep Tools](https://github.com/robertbradley-oss/rep-tools):** A catalog and launch point for the Rep customer-support tools.
-  - **[RepSuite](https://github.com/robertbradley-oss/RepSuite):** A launcher for the Rep tools ecosystem.
+  - **[RepSuite](https://github.com/robertbradley-oss/RepSuite):** A launcher for the Rep apps.
   - **[RepStack](https://github.com/robertbradley-oss/RepStack):** Review collection and pay-period tracking for customer-support teams.
-  - **[RepReport](https://github.com/robertbradley-oss/RepReport):** A review parser and export helper for turning collected notes into report-ready output.
-  - **[RepOS](https://github.com/robertbradley-oss/RepOS):** A customer-support operating system prototype for cleaner ticket workflows and internal visibility.
-  - **[RepGuard](https://github.com/robertbradley-oss/RepGuard):** An evidence and claim review workspace for organizing support cases and risk signals.
+  - **[RepReport](https://github.com/robertbradley-oss/RepReport):** Parses review notes and exports reports.
+  - **[RepOS](https://github.com/robertbradley-oss/RepOS):** A prototype for managing support tickets, queues, and customer history.
+  - **[RepGuard](https://github.com/robertbradley-oss/RepGuard):** A prototype for reviewing support claims and evidence.
 
 ## Stack
 
-C#, .NET, WPF, TypeScript, JavaScript, Node.js, React, Next.js, Supabase, Vercel, GitHub Actions, Codex, and local-first patterns.
+C#, .NET, WPF, TypeScript, JavaScript, Node.js, React, Next.js, Supabase, Vercel, GitHub Actions, Codex.
 
