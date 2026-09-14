@@ -6,6 +6,8 @@ I build Windows utilities, developer tools, and customer-support apps.
 
 ### Desktop software
 
+- **Neatly:** A local Windows folder organizer with preview, reusable rules, and undo. Private repository.
+
 - **[Index](https://github.com/robertbradley-oss/index-releases):** A radial app launcher for Windows. Hold a shortcut, move toward one of eight apps, and release to open it.
 
 ### AI and developer tools
