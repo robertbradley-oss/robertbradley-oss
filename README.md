@@ -12,6 +12,7 @@ I build Windows utilities, developer tools, and customer-support apps.
 
 ### AI and developer tools
 
+- **[WALnut](https://github.com/robertbradley-oss/WALnut):** A small Rust key/value database with a visual inspector for B+ tree splits, write-ahead logging, and crash recovery. [Explore the browser demo](https://robertbradley-oss.github.io/WALnut/).
 - **[Taskwright](https://github.com/robertbradley-oss/taskwright):** A local lab for testing customer-support AI agents and inspecting their results. [Explore the demo](https://robertbradley-oss.github.io/taskwright/).
 - **[AgentReceipt](https://github.com/robertbradley-oss/agentreceipt):** Records tool activity, file changes, and checks from AI coding agents. Pre-alpha.
 - **[Skills and Agents](https://github.com/robertbradley-oss/skills):** Reusable Codex skills and GitHub Copilot agents for planning, development, reviews, and task handoffs.
@@ -27,5 +28,5 @@ I build Windows utilities, developer tools, and customer-support apps.
 
 ## Stack
 
-C#, .NET, WPF, TypeScript, JavaScript, Node.js, React, Next.js, Supabase, Vercel, GitHub Actions, Codex.
+Rust, C#, .NET, WPF, TypeScript, JavaScript, Node.js, React, Next.js, Supabase, Vercel, GitHub Actions, Codex.
 
